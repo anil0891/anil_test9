@@ -7,7 +7,7 @@
     <groupId>org.anil0891</groupId>
     <artifactId>Anil_test9</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <build><finalName>docker1</finalName></build>
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
